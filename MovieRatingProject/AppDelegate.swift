@@ -1,9 +1,8 @@
 //
 //  AppDelegate.swift
-//  MooProject
+//  MovieRatingProject
 //
-//  Created by Avel Aguilar on 5/16/16.
-//  Copyright © 2016 SJSU. All rights reserved.
+//  Copyright © 2016 Avel Aguilar. All rights reserved.
 //
 
 import UIKit
